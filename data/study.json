@@ -1,0 +1,2178 @@
+{
+  "items": [
+    {
+      "item_id": "doc-000",
+      "project": "p-0",
+      "complexity": 0.8407410545314709,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-001",
+      "project": "p-0",
+      "complexity": 0.8582362172403553,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-002",
+      "project": "p-0",
+      "complexity": 0.11722127543702632,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-003",
+      "project": "p-1",
+      "complexity": 0.6564255818435147,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-004",
+      "project": "p-1",
+      "complexity": 0.036186014309092185,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-005",
+      "project": "p-1",
+      "complexity": 0.8939246484877509,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-006",
+      "project": "p-2",
+      "complexity": 0.7298131866938989,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-007",
+      "project": "p-2",
+      "complexity": 0.3009193559701012,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-008",
+      "project": "p-2",
+      "complexity": 0.04448675798476631,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-009",
+      "project": "p-3",
+      "complexity": 0.009859482683054699,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-010",
+      "project": "p-3",
+      "complexity": 0.7469833583978219,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-011",
+      "project": "p-3",
+      "complexity": 0.00044844722687065186,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-012",
+      "project": "p-4",
+      "complexity": 0.4514747187656626,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-013",
+      "project": "p-4",
+      "complexity": 0.3675779291689337,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-014",
+      "project": "p-4",
+      "complexity": 0.45481892559048587,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-015",
+      "project": "p-5",
+      "complexity": 0.990068924694615,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-016",
+      "project": "p-5",
+      "complexity": 0.21845544540165096,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-017",
+      "project": "p-5",
+      "complexity": 0.11910203062705738,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-018",
+      "project": "p-6",
+      "complexity": 0.9758473281681721,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-019",
+      "project": "p-6",
+      "complexity": 0.6091858066659451,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-020",
+      "project": "p-6",
+      "complexity": 0.6465292705905233,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-021",
+      "project": "p-7",
+      "complexity": 0.09649168284072895,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-022",
+      "project": "p-7",
+      "complexity": 0.7564359254886488,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-023",
+      "project": "p-7",
+      "complexity": 0.2523261889352252,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-024",
+      "project": "p-8",
+      "complexity": 0.6751003197609068,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-025",
+      "project": "p-8",
+      "complexity": 0.40506642514650426,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-026",
+      "project": "p-8",
+      "complexity": 0.05168372908733665,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-027",
+      "project": "p-9",
+      "complexity": 0.9561678438252919,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-028",
+      "project": "p-9",
+      "complexity": 0.7969045356234258,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-029",
+      "project": "p-9",
+      "complexity": 0.6016240628811079,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-030",
+      "project": "p-10",
+      "complexity": 0.55448787853041,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-031",
+      "project": "p-10",
+      "complexity": 0.987946390186051,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-032",
+      "project": "p-10",
+      "complexity": 0.6541454309064446,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-033",
+      "project": "p-11",
+      "complexity": 0.8247209716334316,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-034",
+      "project": "p-11",
+      "complexity": 0.9770845922921828,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-035",
+      "project": "p-11",
+      "complexity": 0.7198395856839366,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-036",
+      "project": "p-12",
+      "complexity": 0.8134590596692723,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-037",
+      "project": "p-12",
+      "complexity": 0.46233603203771534,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-038",
+      "project": "p-12",
+      "complexity": 0.6986877703962767,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-039",
+      "project": "p-13",
+      "complexity": 0.6943412951097434,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-040",
+      "project": "p-13",
+      "complexity": 0.4086423705963822,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-041",
+      "project": "p-13",
+      "complexity": 0.06975105241503754,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-042",
+      "project": "p-14",
+      "complexity": 0.2836256438581557,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-043",
+      "project": "p-14",
+      "complexity": 0.3103284923559607,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-044",
+      "project": "p-14",
+      "complexity": 0.43419480578276826,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-045",
+      "project": "p-15",
+      "complexity": 0.4190909600830739,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-046",
+      "project": "p-15",
+      "complexity": 0.24999557633088165,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-047",
+      "project": "p-15",
+      "complexity": 0.7203943440283077,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-048",
+      "project": "p-16",
+      "complexity": 0.9514976285868376,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-049",
+      "project": "p-16",
+      "complexity": 0.548913040043723,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-050",
+      "project": "p-16",
+      "complexity": 0.3255092536327898,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-051",
+      "project": "p-17",
+      "complexity": 0.5486587735846629,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-052",
+      "project": "p-17",
+      "complexity": 0.8239511665218271,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-053",
+      "project": "p-17",
+      "complexity": 0.9516754626353788,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-054",
+      "project": "p-18",
+      "complexity": 0.7586048893267339,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-055",
+      "project": "p-18",
+      "complexity": 0.02805195383226733,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-056",
+      "project": "p-18",
+      "complexity": 0.35211055920431666,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-057",
+      "project": "p-19",
+      "complexity": 0.22835052740158168,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-058",
+      "project": "p-19",
+      "complexity": 0.8870916860157512,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-059",
+      "project": "p-19",
+      "complexity": 0.62582312919523,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-060",
+      "project": "p-20",
+      "complexity": 0.6098602789322738,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-061",
+      "project": "p-20",
+      "complexity": 0.014917817962495805,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-062",
+      "project": "p-20",
+      "complexity": 0.9518047564087293,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-063",
+      "project": "p-21",
+      "complexity": 0.47677989378898733,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-064",
+      "project": "p-21",
+      "complexity": 0.9230533416901539,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-065",
+      "project": "p-21",
+      "complexity": 0.01968849091471392,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-066",
+      "project": "p-22",
+      "complexity": 0.2144094652200611,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-067",
+      "project": "p-22",
+      "complexity": 0.8711390941331492,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-068",
+      "project": "p-22",
+      "complexity": 0.25235479013648776,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-069",
+      "project": "p-23",
+      "complexity": 0.6147700559936461,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-070",
+      "project": "p-23",
+      "complexity": 0.4418412104077085,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-071",
+      "project": "p-23",
+      "complexity": 0.5261323424005044,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-072",
+      "project": "p-24",
+      "complexity": 0.8745203880177522,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-073",
+      "project": "p-24",
+      "complexity": 0.23924875097624743,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-074",
+      "project": "p-24",
+      "complexity": 0.3519300697221086,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-075",
+      "project": "p-25",
+      "complexity": 0.5434509871465125,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-076",
+      "project": "p-25",
+      "complexity": 0.5199061071771535,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-077",
+      "project": "p-25",
+      "complexity": 0.19319125364092982,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-078",
+      "project": "p-26",
+      "complexity": 0.5640370722486627,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-079",
+      "project": "p-26",
+      "complexity": 0.1588665784772897,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-080",
+      "project": "p-26",
+      "complexity": 0.44749110574427586,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-081",
+      "project": "p-27",
+      "complexity": 0.6982523551576757,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-082",
+      "project": "p-27",
+      "complexity": 0.805362560944238,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-083",
+      "project": "p-27",
+      "complexity": 0.1865139964867476,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-084",
+      "project": "p-28",
+      "complexity": 0.19490590918441986,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-085",
+      "project": "p-28",
+      "complexity": 0.6222093616837903,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-086",
+      "project": "p-28",
+      "complexity": 0.3164848260281391,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-087",
+      "project": "p-29",
+      "complexity": 0.9086344992215795,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-088",
+      "project": "p-29",
+      "complexity": 0.4213697304990791,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-089",
+      "project": "p-29",
+      "complexity": 0.6427352737259405,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-090",
+      "project": "p-30",
+      "complexity": 0.672493504804723,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-091",
+      "project": "p-30",
+      "complexity": 0.8007434111642295,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-092",
+      "project": "p-30",
+      "complexity": 0.5985499674527127,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-093",
+      "project": "p-31",
+      "complexity": 0.48471102137343824,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-094",
+      "project": "p-31",
+      "complexity": 0.009237222194499517,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-095",
+      "project": "p-31",
+      "complexity": 0.7409127672355882,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-096",
+      "project": "p-32",
+      "complexity": 0.22257193144064413,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-097",
+      "project": "p-32",
+      "complexity": 0.794316553265445,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-098",
+      "project": "p-32",
+      "complexity": 0.47171450898175193,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-099",
+      "project": "p-33",
+      "complexity": 0.5242379058123414,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-100",
+      "project": "p-33",
+      "complexity": 0.4658592381489247,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-101",
+      "project": "p-33",
+      "complexity": 0.0026305964748335464,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-102",
+      "project": "p-34",
+      "complexity": 0.9547020141092127,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-103",
+      "project": "p-34",
+      "complexity": 0.3374015001769194,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-104",
+      "project": "p-34",
+      "complexity": 0.23275722288482703,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-105",
+      "project": "p-35",
+      "complexity": 0.31220712016820285,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-106",
+      "project": "p-35",
+      "complexity": 0.7307308522353019,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-107",
+      "project": "p-35",
+      "complexity": 0.04172075460803004,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-108",
+      "project": "p-36",
+      "complexity": 0.9485031151835237,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-109",
+      "project": "p-36",
+      "complexity": 0.9078833521009088,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-110",
+      "project": "p-36",
+      "complexity": 0.4474674801251327,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-111",
+      "project": "p-37",
+      "complexity": 0.5900302604621589,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-112",
+      "project": "p-37",
+      "complexity": 0.6221178801233676,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-113",
+      "project": "p-37",
+      "complexity": 0.2497185449651198,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-114",
+      "project": "p-38",
+      "complexity": 0.05389067843428019,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-115",
+      "project": "p-38",
+      "complexity": 0.6742775280830398,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-116",
+      "project": "p-38",
+      "complexity": 0.2529956869065674,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-117",
+      "project": "p-39",
+      "complexity": 0.32662660225720463,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-118",
+      "project": "p-39",
+      "complexity": 0.4042638981973583,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-119",
+      "project": "p-39",
+      "complexity": 0.7977559953894059,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-120",
+      "project": "p-40",
+      "complexity": 0.5026187233026711,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-121",
+      "project": "p-40",
+      "complexity": 0.6784238005064345,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-122",
+      "project": "p-40",
+      "complexity": 0.9357265408795823,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-123",
+      "project": "p-41",
+      "complexity": 0.3385402681337374,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-124",
+      "project": "p-41",
+      "complexity": 0.7082508942923995,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-125",
+      "project": "p-41",
+      "complexity": 0.9398071801095018,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-126",
+      "project": "p-42",
+      "complexity": 0.13920287782500274,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-127",
+      "project": "p-42",
+      "complexity": 0.5477895564341865,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-128",
+      "project": "p-42",
+      "complexity": 0.8079057598707476,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-129",
+      "project": "p-43",
+      "complexity": 0.9464038196857477,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-130",
+      "project": "p-43",
+      "complexity": 0.770206643826892,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-131",
+      "project": "p-43",
+      "complexity": 0.440169165714701,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-132",
+      "project": "p-44",
+      "complexity": 0.5538149464691109,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-133",
+      "project": "p-44",
+      "complexity": 0.03446232638704316,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-134",
+      "project": "p-44",
+      "complexity": 0.20810985757069844,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-135",
+      "project": "p-45",
+      "complexity": 0.876976607783077,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-136",
+      "project": "p-45",
+      "complexity": 0.9225452224681463,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-137",
+      "project": "p-45",
+      "complexity": 0.8817652176777939,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-138",
+      "project": "p-46",
+      "complexity": 0.028744414877228674,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-139",
+      "project": "p-46",
+      "complexity": 0.8035538560849211,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-140",
+      "project": "p-46",
+      "complexity": 0.3072596307085924,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-141",
+      "project": "p-47",
+      "complexity": 0.053740508391407205,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-142",
+      "project": "p-47",
+      "complexity": 0.43121640277995554,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-143",
+      "project": "p-47",
+      "complexity": 0.4488374717607022,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-144",
+      "project": "p-48",
+      "complexity": 0.17790437466012898,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-145",
+      "project": "p-48",
+      "complexity": 0.9140478131414113,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-146",
+      "project": "p-48",
+      "complexity": 0.7786419252504064,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-147",
+      "project": "p-49",
+      "complexity": 0.16091378889770924,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-148",
+      "project": "p-49",
+      "complexity": 0.17377111815963597,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-149",
+      "project": "p-49",
+      "complexity": 0.44855275940715755,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-150",
+      "project": "p-50",
+      "complexity": 0.6012422075459536,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-151",
+      "project": "p-50",
+      "complexity": 0.0942468004671031,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-152",
+      "project": "p-50",
+      "complexity": 0.6931109835630589,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-153",
+      "project": "p-51",
+      "complexity": 0.37555008307771187,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-154",
+      "project": "p-51",
+      "complexity": 0.6988023622194895,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-155",
+      "project": "p-51",
+      "complexity": 0.8018088525525693,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-156",
+      "project": "p-52",
+      "complexity": 0.3391477691650028,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-157",
+      "project": "p-52",
+      "complexity": 0.9371772007331176,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-158",
+      "project": "p-52",
+      "complexity": 0.4209945231542366,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-159",
+      "project": "p-53",
+      "complexity": 0.6047945750432758,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-160",
+      "project": "p-53",
+      "complexity": 0.42391998876166026,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-161",
+      "project": "p-53",
+      "complexity": 0.9427500059568485,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-162",
+      "project": "p-54",
+      "complexity": 0.3281608530156951,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-163",
+      "project": "p-54",
+      "complexity": 0.9392972690339899,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-164",
+      "project": "p-54",
+      "complexity": 0.8128238767742038,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-165",
+      "project": "p-55",
+      "complexity": 0.979120759722165,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-166",
+      "project": "p-55",
+      "complexity": 0.9744373597246565,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-167",
+      "project": "p-55",
+      "complexity": 0.6222788238709649,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-168",
+      "project": "p-56",
+      "complexity": 0.34167207330539007,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-169",
+      "project": "p-56",
+      "complexity": 0.48377925074487826,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-170",
+      "project": "p-56",
+      "complexity": 0.527904452604341,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-171",
+      "project": "p-57",
+      "complexity": 0.34187632270831414,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-172",
+      "project": "p-57",
+      "complexity": 0.025839049665345115,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-173",
+      "project": "p-57",
+      "complexity": 0.3155765233117944,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-174",
+      "project": "p-58",
+      "complexity": 0.5343575507277568,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-175",
+      "project": "p-58",
+      "complexity": 0.24194156976216552,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-176",
+      "project": "p-58",
+      "complexity": 0.07401858380980719,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-177",
+      "project": "p-59",
+      "complexity": 0.6607392242160789,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-178",
+      "project": "p-59",
+      "complexity": 0.06799514516437155,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-179",
+      "project": "p-59",
+      "complexity": 0.9174077995579443,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-180",
+      "project": "p-60",
+      "complexity": 0.886305370413712,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-181",
+      "project": "p-60",
+      "complexity": 0.3152138476660533,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-182",
+      "project": "p-60",
+      "complexity": 0.43537207884108886,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-183",
+      "project": "p-61",
+      "complexity": 0.779177441544367,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-184",
+      "project": "p-61",
+      "complexity": 0.14329788721738856,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-185",
+      "project": "p-61",
+      "complexity": 0.5876590041590496,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-186",
+      "project": "p-62",
+      "complexity": 0.8122427800707568,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-187",
+      "project": "p-62",
+      "complexity": 0.9715961209168104,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-188",
+      "project": "p-62",
+      "complexity": 0.6082292325952512,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-189",
+      "project": "p-63",
+      "complexity": 0.6722016340283138,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-190",
+      "project": "p-63",
+      "complexity": 0.36042500234817654,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-191",
+      "project": "p-63",
+      "complexity": 0.9234836200891363,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-192",
+      "project": "p-64",
+      "complexity": 0.013549836818082528,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-193",
+      "project": "p-64",
+      "complexity": 0.21878050165641194,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-194",
+      "project": "p-64",
+      "complexity": 0.31732211871867055,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-195",
+      "project": "p-65",
+      "complexity": 0.47824451982603755,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-196",
+      "project": "p-65",
+      "complexity": 0.8307909900621998,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-197",
+      "project": "p-65",
+      "complexity": 0.17109920164468617,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-198",
+      "project": "p-66",
+      "complexity": 0.8347736996775189,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-199",
+      "project": "p-66",
+      "complexity": 0.1594850885537049,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-200",
+      "project": "p-66",
+      "complexity": 0.40153784710469653,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-201",
+      "project": "p-67",
+      "complexity": 0.492305152445515,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-202",
+      "project": "p-67",
+      "complexity": 0.37512275848907695,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-203",
+      "project": "p-67",
+      "complexity": 0.5258489196993674,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-204",
+      "project": "p-68",
+      "complexity": 0.018298727987651864,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-205",
+      "project": "p-68",
+      "complexity": 0.2684577707094924,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-206",
+      "project": "p-68",
+      "complexity": 0.8109364324930014,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-207",
+      "project": "p-69",
+      "complexity": 0.9386653760251783,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-208",
+      "project": "p-69",
+      "complexity": 0.6079891049731806,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-209",
+      "project": "p-69",
+      "complexity": 0.6899776380555492,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-210",
+      "project": "p-70",
+      "complexity": 0.4120361640748911,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-211",
+      "project": "p-70",
+      "complexity": 0.4903748208919818,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-212",
+      "project": "p-70",
+      "complexity": 0.2551227447910307,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-213",
+      "project": "p-71",
+      "complexity": 0.9939793787066498,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-214",
+      "project": "p-71",
+      "complexity": 0.8643996135694124,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-215",
+      "project": "p-71",
+      "complexity": 0.7752305600622248,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-216",
+      "project": "p-72",
+      "complexity": 0.3443775610898856,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-217",
+      "project": "p-72",
+      "complexity": 0.41877415620649006,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-218",
+      "project": "p-72",
+      "complexity": 0.8557586228890289,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-219",
+      "project": "p-73",
+      "complexity": 0.6315117226022186,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-220",
+      "project": "p-73",
+      "complexity": 0.2055349474514312,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-221",
+      "project": "p-73",
+      "complexity": 0.2112778164701581,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-222",
+      "project": "p-74",
+      "complexity": 0.9149045414460956,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-223",
+      "project": "p-74",
+      "complexity": 0.11922851220366537,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-224",
+      "project": "p-74",
+      "complexity": 0.32255406466260117,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-225",
+      "project": "p-75",
+      "complexity": 0.014186567125927696,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-226",
+      "project": "p-75",
+      "complexity": 4.545770680608463e-05,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-227",
+      "project": "p-75",
+      "complexity": 0.4171384822314129,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-228",
+      "project": "p-76",
+      "complexity": 0.9485641248811063,
+      "new_team": true,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-229",
+      "project": "p-76",
+      "complexity": 0.3862527607140803,
+      "new_team": false,
+      "available_at": "2026-10-01"
+    },
+    {
+      "item_id": "doc-230",
+      "project": "p-76",
+      "complexity": 0.3075556449233152,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-231",
+      "project": "p-77",
+      "complexity": 0.9524334990682038,
+      "new_team": true,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-232",
+      "project": "p-77",
+      "complexity": 0.9456486511888813,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-233",
+      "project": "p-77",
+      "complexity": 0.2970447777914076,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-234",
+      "project": "p-78",
+      "complexity": 0.8679401514674896,
+      "new_team": true,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-235",
+      "project": "p-78",
+      "complexity": 0.3566639464154574,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-236",
+      "project": "p-78",
+      "complexity": 0.7979264589563599,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-237",
+      "project": "p-79",
+      "complexity": 0.8847377531408367,
+      "new_team": true,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-238",
+      "project": "p-79",
+      "complexity": 0.20152299203537916,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    },
+    {
+      "item_id": "doc-239",
+      "project": "p-79",
+      "complexity": 0.3949529730692515,
+      "new_team": false,
+      "available_at": "2026-12-01"
+    }
+  ],
+  "positive_reports": [
+    {
+      "item_id": "doc-001",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-002",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-016",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-019",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-020",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-023",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-028",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-034",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-037",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-038",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-046",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-047",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-071",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-072",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-079",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-085",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-087",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-092",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-109",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-110",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-119",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-121",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-122",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-123",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-127",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-132",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-136",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-142",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-145",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-148",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-161",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-163",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-166",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-167",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-183",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-184",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-193",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-215",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-217",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-232",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    },
+    {
+      "item_id": "doc-238",
+      "source": "self_report",
+      "confirmed_at": "2026-10-10"
+    }
+  ],
+  "audits": [
+    {
+      "item_id": "doc-004",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-006",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-015",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-018",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-019",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-027",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-031",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-034",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-048",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-053",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-057",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-062",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-063",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-064",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-076",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-087",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-100",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-102",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-108",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-109",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-122",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-123",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-125",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-129",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-136",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-137",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-145",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-157",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-161",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-163",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-165",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-166",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-179",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-187",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-191",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-201",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-207",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-211",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-213",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-218",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-222",
+      "selection": "queue",
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-225",
+      "selection": "probability",
+      "inclusion_probability": 0.08333333333333333,
+      "audit_outcome": 0,
+      "reviewed_at": "2026-10-15"
+    },
+    {
+      "item_id": "doc-228",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-231",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "item_id": "doc-232",
+      "selection": "queue",
+      "audit_outcome": 1,
+      "reviewed_at": "2026-10-20"
+    }
+  ],
+  "cutoff": "2026-11-01",
+  "project_title": "选择性已知正例下的资料复核排序与概率适用性"
+}
