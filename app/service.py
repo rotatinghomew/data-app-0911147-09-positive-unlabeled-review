@@ -8,6 +8,7 @@ import os
 import threading
 
 from . import domain
+from . import review
 from .storage import NoteStore
 
 
@@ -47,6 +48,8 @@ def create_server(host='127.0.0.1', port=0, data=None, state_dir=None):
                     self.reply(200, dataset)
                 elif route == '/api/summary':
                     self.reply(200, domain.baseline(dataset))
+                elif route == '/api/review':
+                    self.reply(200, review.dashboard(dataset))
                 elif route == '/api/notes':
                     self.reply(200, {'notes': notes.list()})
                 elif route in ('/', '/app.js', '/style.css'):

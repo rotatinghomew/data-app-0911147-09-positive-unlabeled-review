@@ -1,6 +1,13 @@
-const schema = [{"name": "limit", "label": "今日复核数量"}];
-const defaults = {"operation": "queue", "limit": 10};
-const sources = ["items", "positive_reports", "audits"];
+const operations = [
+  {value: 'review_queue', label: '模型排序队列（正例未标注学习）'},
+  {value: 'queue', label: '遗留操作：最早优先'}
+];
+const assumptions = [
+  {value: 'stratified', label: '分层上报假设（依批次与团队）'},
+  {value: 'scar', label: 'SCAR（恒定上报率）'}
+];
+const defaults = {operation: 'review_queue', daily_capacity: 10, assumption: 'stratified'};
+const sources = ['items', 'positive_reports', 'audits'];
 let study = null;
 let latestRequest = {...defaults};
 
@@ -44,32 +51,46 @@ function renderTable(source) {
 
 function renderControls() {
   const form = document.getElementById('action-form');
-  for (const control of schema) {
-    const label = document.createElement('label'); label.textContent = control.label;
-    let input;
-    if (control.options) {
-      input = document.createElement('select');
-      input.multiple = Array.isArray(defaults[control.name]);
-      for (const value of control.options) {
-        const option = document.createElement('option'); option.value = value; option.textContent = value;
-        option.selected = input.multiple ? defaults[control.name].includes(value) : defaults[control.name] === value;
-        input.append(option);
-      }
-    } else {
-      input = document.createElement('input'); input.type = 'number'; input.value = defaults[control.name];
-    }
-    input.name = control.name; label.append(input); form.append(label);
+  const operationLabel = document.createElement('label');
+  operationLabel.textContent = '复核操作';
+  const operationSelect = document.createElement('select');
+  operationSelect.name = 'operation';
+  for (const {value, label} of operations) {
+    const option = document.createElement('option');
+    option.value = value; option.textContent = label;
+    option.selected = defaults.operation === value;
+    operationSelect.append(option);
   }
-  const button = document.createElement('button'); button.type = 'submit'; button.textContent = "打开待核队列";
-  form.append(button);
+  operationLabel.append(operationSelect);
+  const capacityLabel = document.createElement('label');
+  capacityLabel.textContent = '每天可复核数量';
+  const capacityInput = document.createElement('input');
+  capacityInput.type = 'number'; capacityInput.min = '0';
+  capacityInput.name = 'daily_capacity'; capacityInput.value = defaults.daily_capacity;
+  capacityLabel.append(capacityInput);
+  const assumptionLabel = document.createElement('label');
+  assumptionLabel.textContent = '选择假设';
+  const assumptionSelect = document.createElement('select');
+  assumptionSelect.name = 'assumption';
+  for (const {value, label} of assumptions) {
+    const option = document.createElement('option');
+    option.value = value; option.textContent = label;
+    option.selected = defaults.assumption === value;
+    assumptionSelect.append(option);
+  }
+  assumptionLabel.append(assumptionSelect);
+  const button = document.createElement('button');
+  button.type = 'submit'; button.textContent = '生成复核队列';
+  form.append(operationLabel, capacityLabel, assumptionLabel, button);
+  const syncAssumption = () => { assumptionSelect.disabled = operationSelect.value !== 'review_queue'; };
+  operationSelect.addEventListener('change', syncAssumption);
+  syncAssumption();
   form.addEventListener('submit', async event => {
     event.preventDefault();
-    latestRequest = {operation: defaults.operation};
-    for (const control of schema) {
-      const field = form.elements.namedItem(control.name);
-      latestRequest[control.name] = field.multiple ? [...field.selectedOptions].map(option => option.value)
-        : control.options ? field.value : Number(field.value);
-    }
+    const capacity = Number(capacityInput.value);
+    latestRequest = operationSelect.value === 'review_queue'
+      ? {operation: 'review_queue', daily_capacity: capacity, assumption: assumptionSelect.value}
+      : {operation: 'queue', limit: capacity};
     try { display('result', await api('/api/action', latestRequest)); }
     catch (error) { display('result', {error: error.message}); }
   });
@@ -86,6 +107,16 @@ async function refreshNotes() {
 async function start() {
   study = await api('/api/study');
   display('summary', await api('/api/summary'));
+  const review = await api('/api/review');
+  display('learning', {
+    label_states: review.label_states, label_notice: review.label_notice,
+    conflicts: review.conflicts, conflict_notice: review.conflict_notice,
+    features: review.features, leakage_guards: review.leakage_guards,
+    assumptions: review.assumptions, prevalence: review.prevalence,
+    sensitivity: review.sensitivity
+  });
+  display('validation', {validation: review.validation, suppressed_metrics: review.suppressed_metrics});
+  display('feedback', review.feedback);
   const selector = document.getElementById('source');
   for (const source of sources) {
     const option = document.createElement('option'); option.value = source; option.textContent = source; selector.append(option);

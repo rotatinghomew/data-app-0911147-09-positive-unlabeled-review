@@ -17,7 +17,7 @@ def main():
         base = 'http://127.0.0.1:' + str(server.server_port)
         try:
             print('本地产品实时运行：' + base)
-            for route in ('/health', '/api/summary'):
+            for route in ('/health', '/api/summary', '/api/review'):
                 with urlopen(base + route, timeout=5) as response:
                     print(route, json.dumps(json.load(response), ensure_ascii=False, indent=2))
             operation = Request(base + '/api/action', json.dumps(request).encode(), {'Content-Type': 'application/json'})

@@ -1,4 +1,5 @@
 {
-  "operation": "queue",
-  "limit": 10
+  "operation": "review_queue",
+  "daily_capacity": 10,
+  "assumption": "stratified"
 }

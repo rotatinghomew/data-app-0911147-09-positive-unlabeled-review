@@ -42,6 +42,16 @@ class BrowserContractTests(unittest.TestCase):
                 page.goto(self.base, wait_until='networkidle')
                 page.wait_for_function("document.querySelector('#summary').textContent !== '载入中'")
                 self.assertNotIn('error', json.loads(page.locator('#summary').inner_text()))
+                for section in ('#learning', '#validation', '#feedback'):
+                    page.wait_for_function(
+                        "target => document.querySelector(target).textContent !== '载入中'", arg=section)
+                    self.assertNotIn('error', json.loads(page.locator(section).inner_text()))
+                learning = json.loads(page.locator('#learning').inner_text())
+                self.assertIn('assumptions', learning)
+                self.assertIn('scar', learning['assumptions'])
+                self.assertIn('stratified', learning['assumptions'])
+                validation = json.loads(page.locator('#validation').inner_text())
+                self.assertIn('不合并', validation['validation']['mixing_warning'])
                 sources = page.locator('#source option').all_text_contents()
                 self.assertTrue(sources)
                 for source in sources:

@@ -29,7 +29,12 @@ def baseline(data):
 
 
 def act(data, request):
-    if request.get('operation') != 'queue':
+    operation = request.get('operation')
+    if operation == 'review_queue':
+        from . import review
+        return review.build_queue(data, request.get('daily_capacity'),
+                                  request.get('assumption', 'stratified'))
+    if operation != 'queue':
         raise ValueError('未知复核操作')
     limit = request.get('limit')
     if not isinstance(limit, int) or limit < 0:

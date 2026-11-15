@@ -1,10 +1,16 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>选择性已知正例下的资料复核排序与概率适用性</title><link rel="stylesheet" href="/style.css"><script defer src="/app.js"></script></head>
-<body><header><h1>选择性已知正例下的资料复核排序与概率适用性</h1><p>正例来源归并、概率核查与日常复核队列分开记录</p></header><main>
+<body><header><h1>选择性已知正例下的资料复核排序与概率适用性</h1><p>正例未标注学习、选择机制敏感性、概率核查与复核队列分开记录</p></header><main>
 <section><h2>当前资料概况</h2><pre id="summary">载入中</pre></section>
+<section><h2>学习与选择假设</h2><pre id="learning">载入中</pre>
+<aside>未核实记录不充当负例；比例与排序结论都标注所依赖的上报机制假设，不可识别时显示 null 并说明原因。</aside></section>
+<div class="columns"><section><h2>生成复核队列</h2><form id="action-form"></form><pre id="result">选择记录后操作</pre>
+<aside>队列长度按每天可复核数量；无可靠概率的记录列于末尾并标记，由业务决定是否复核。</aside></section>
+<section><h2>概率核查与队列价值</h2><pre id="validation">载入中</pre>
+<aside>概率核查与队列核查来源不同，不合并为同一份验证集。</aside></section></div>
+<section><h2>标签回流与群体适用性</h2><pre id="feedback">载入中</pre>
+<aside>区分模型学到的变化、总体判断变化的来源，以及仍不适合给出可靠概率的群体。</aside></section>
 <section><h2>业务记录</h2><label>记录集合<select id="source"></select></label><span id="record-count"></span><div id="records"></div></section>
-<div class="columns"><section><h2>打开待核队列</h2><form id="action-form"></form><pre id="result">选择记录后操作</pre>
-<aside>当前页面保留原始描述与业务记录，具体统计含义见分析约定。</aside></section>
-<section><h2>工作批注</h2><form id="note-form"><textarea id="note" required maxlength="2000" aria-label="批注内容"></textarea><button>保存批注</button></form><ul id="notes"></ul></section></div>
+<section><h2>工作批注</h2><form id="note-form"><textarea id="note" required maxlength="2000" aria-label="批注内容"></textarea><button>保存批注</button></form><ul id="notes"></ul></section>
 </main></body></html>
